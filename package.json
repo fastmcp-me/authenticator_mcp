@@ -1,0 +1,36 @@
+{
+  "name": "authenticator_mcp",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "authenticator_mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "prepublishOnly": "pnpm run build"
+  },
+  "files": [
+    "dist",
+    "package.json",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:firstorderai/authenticator_mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/minimist": "^1.2.5",
+    "@types/node": "^22.15.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "node-fetch": "^3.3.2"
+  }
+}
