@@ -1,6 +1,6 @@
 {
   "name": "@firstorderai/authenticator-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Model Context Protocol server for Authenticator App",
   "type": "module",
   "main": "dist/cli.js",
