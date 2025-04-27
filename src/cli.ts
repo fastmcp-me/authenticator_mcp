@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { config } from 'dotenv';
 import { resolve } from 'path';
 import { getServerConfig } from './config.js';
