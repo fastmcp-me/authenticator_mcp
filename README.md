@@ -20,7 +20,7 @@ Many AI clients use a configuration file to manage MCP servers.
 
 The `authenticator-mcp` tool can be configured by adding the following to your configuration file.
 
-> NOTE: You will need to create a Authenticator App **access token** to use this server. Instructions on how to create a Authenticator App access token can be found [here](#create-a-access-token).
+> NOTE: You will need to create a Authenticator App **access token** to use this server. Instructions on how to create a Authenticator App access token can be found [here](#creating-an-access-token).
 
 ### MacOS / Linux
 
