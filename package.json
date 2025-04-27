@@ -1,11 +1,11 @@
 {
-  "name": "authenticator_mcp",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@firstorderai/authenticator-mcp",
+  "version": "1.0.1",
+  "description": "Model Context Protocol server for Authenticator App",
   "type": "module",
   "main": "dist/cli.js",
   "bin": {
-    "authenticator_mcp": "dist/cli.js"
+    "authenticator-mcp": "dist/cli.js"
   },
   "scripts": {
     "build": "tsc",
@@ -21,8 +21,17 @@
     "type": "git",
     "url": "git@github.com:firstorderai/authenticator_mcp.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "authenticator",
+    "authenticator app",
+    "ai",
+    "agent",
+    "claude",
+    "cursor"
+  ],
+  "author": "FirstOrder.AI",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.15.2",
