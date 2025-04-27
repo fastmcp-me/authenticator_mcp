@@ -52,7 +52,7 @@ Or you can set `AUTHENTICATOR_ACCESS_TOKEN` in the `env` field.
 
 ## Install Authenticator App · 2FA
 
-[<img src="https://firstorder.ai/store/msstore.svg" alt="Download on the Microsoft Store" height="50" style="margin-right: 10px">](https://apps.microsoft.com/detail/9n6gl0bvkphn?utm_source=mcp)[<img src="https://firstorder.ai/store/appstore_mac.svg" alt="Download on the Mac App Store" height="50">](https://apps.apple.com/app/apple-store/id6470149516?pt=126691301&mt=8&platform=mac&utm_source=mcp)&nbsp;&nbsp;&nbsp;[<img src="https://firstorder.ai/store/download_deb.svg" alt="Download the Ubuntu/Debian .deb" height="50">](https://firstorder.ai/downloads/authenticator.deb)
+[<img src="https://firstorder.ai/store/msstore.svg" alt="Download on the Microsoft Store" height="50" style="margin-right: 10px">](https://apps.microsoft.com/detail/9n6gl0bvkphn?utm_source=mcp)&nbsp;&nbsp;&nbsp;[<img src="https://firstorder.ai/store/appstore_mac.svg" alt="Download on the Mac App Store" height="50">](https://apps.apple.com/app/apple-store/id6470149516?pt=126691301&mt=8&platform=mac&utm_source=mcp)&nbsp;&nbsp;&nbsp;[<img src="https://firstorder.ai/store/download_deb.svg" alt="Download the Ubuntu/Debian .deb" height="50">](https://firstorder.ai/downloads/authenticator.deb)
 
 ## Creating an Access Token
 
