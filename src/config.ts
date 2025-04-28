@@ -1,7 +1,5 @@
 import { hideBin } from 'yargs/helpers';
 import { config } from 'dotenv';
-import { readFileSync } from 'fs';
-const pkg = JSON.parse(readFileSync('./package.json', 'utf-8'));
 import yargs from 'yargs';
 
 config();
@@ -27,7 +25,6 @@ export function getServerConfig(): ServerConfig {
       },
     })
     .help()
-    .version(pkg.version)
     .parseSync() as CliArgs;
 
   const config: ServerConfig = {

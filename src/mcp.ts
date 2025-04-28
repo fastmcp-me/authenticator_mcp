@@ -1,14 +1,12 @@
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
-import { readFileSync } from 'fs';
-const pkg = JSON.parse(readFileSync('./package.json', 'utf-8'));
 import { Authenticator } from './authenticator.js';
 import { Logger } from './index.js';
-import { number, z } from 'zod';
+import { z } from 'zod';
 import { Transport } from '@modelcontextprotocol/sdk/shared/transport.js';
 
 const serverInfo = {
   name: 'Authenticator App MCP',
-  version: pkg.version,
+  version: '1.0.0',
 };
 
 const serverOptions = {
