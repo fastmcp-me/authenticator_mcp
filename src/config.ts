@@ -1,6 +1,7 @@
 import { hideBin } from 'yargs/helpers';
 import { config } from 'dotenv';
-import pkg from '../package.json' with { type: 'json' };
+import { readFileSync } from 'fs';
+const pkg = JSON.parse(readFileSync('./package.json', 'utf-8'));
 import yargs from 'yargs';
 
 config();
