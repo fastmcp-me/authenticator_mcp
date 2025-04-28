@@ -28,7 +28,7 @@ export interface GetAccountListResponse {
 
 export class Authenticator {
   private readonly accessToken: string;
-  private readonly baseUrl = 'http://localhost:43457/mcp/v1';
+  private readonly baseUrl = 'http://127.0.0.1:43457/mcp/v1';
 
   constructor(accessToken: string) {
     this.accessToken = accessToken;
