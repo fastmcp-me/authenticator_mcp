@@ -1,5 +1,6 @@
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
-import pkg from '../package.json' with { type: 'json' };
+import { readFileSync } from 'fs';
+const pkg = JSON.parse(readFileSync('./package.json', 'utf-8'));
 import { Authenticator } from './authenticator.js';
 import { Logger } from './index.js';
 import { number, z } from 'zod';
