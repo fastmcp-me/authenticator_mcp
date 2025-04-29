@@ -12,7 +12,7 @@ A secure MCP (Model Context Protocol) server that enables AI agents to interact 
 2. Ask AI agent to retrieve your 2FA code or password for your desired website and account.
 3. AI agent will securely fetch these credentials, then can utilize them to automate your login process.
 
-This MCP server is specifically designed for use with [Authenticator App · 2FA](#install-authenticator-app--2fa).
+This MCP server is specifically designed for use with [Authenticator App · 2FA](#install-authenticator-app--2fa-desktop-version).
 
 ## Getting Started
 
