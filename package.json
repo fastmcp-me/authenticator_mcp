@@ -1,6 +1,6 @@
 {
   "name": "authenticator-mcp",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Model Context Protocol server for Authenticator App",
   "type": "module",
   "main": "dist/cli.js",
@@ -32,7 +32,7 @@
     "cursor"
   ],
   "author": "FirstOrder.AI",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.15.2",
     "@types/yargs": "^17.0.33",
