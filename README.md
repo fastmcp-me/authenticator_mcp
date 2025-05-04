@@ -1,5 +1,9 @@
 <div align="center">
   <h1>Authenticator App MCP Server</h1>
+  <p>
+    🌐 Available in:
+    <a href="README.zh.md">中文 (Chinese)</a>
+  </p>
 </div>
 
 <br/>
