@@ -4,6 +4,7 @@
     🌐 可用语言:
     <a href="README.md">English</a>
   </p>
+  <a href="https://smithery.ai/server/@firstorderai/authenticator_mcp"><img alt="Smithery Badge" src="https://smithery.ai/badge/@firstorderai/authenticator_mcp"></a>
 </div>
 
 <br/>
