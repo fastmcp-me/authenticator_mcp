@@ -4,6 +4,7 @@
     🌐 Available in:
     <a href="README.zh.md">中文 (Chinese)</a>
   </p>
+  <a href="https://smithery.ai/server/@firstorderai/authenticator_mcp"><img alt="Smithery Badge" src="https://smithery.ai/badge/@firstorderai/authenticator_mcp"></a>
 </div>
 
 <br/>
