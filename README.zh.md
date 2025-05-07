@@ -19,6 +19,8 @@
 
 此 MCP 服务器专为配合 [Authenticator App · 2FA](#安装-authenticator-app--2fa-桌面版) 使用而设计。
 
+[![Demo video](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F4zZqrES6FBc)](https://youtu.be/4zZqrES6FBc)
+
 ## 快速开始
 
 许多 AI 客户端使用配置文件来管理 MCP 服务器。

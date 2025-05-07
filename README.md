@@ -19,6 +19,8 @@ A secure MCP (Model Context Protocol) server that enables AI agents to interact 
 
 This MCP server is specifically designed for use with [Authenticator App · 2FA](#install-authenticator-app--2fa-desktop-version).
 
+[![Demo video](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F4zZqrES6FBc)](https://youtu.be/4zZqrES6FBc)
+
 ## Getting Started
 
 Many AI clients use a configuration file to manage MCP servers.
