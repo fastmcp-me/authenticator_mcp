@@ -11,6 +11,10 @@
 
 A secure MCP (Model Context Protocol) server that enables AI agents to interact with the Authenticator App. It provides seamless access to 2FA codes and passwords, allowing AI agents to assist with automated login processes while maintaining security. This tool bridges the gap between AI assistants and secure authentication, making it easier to manage your credentials across different platforms and websites.
 
+<a href="https://glama.ai/mcp/servers/@firstorderai/authenticator_mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@firstorderai/authenticator_mcp/badge" alt="Authenticator App Server MCP server" />
+</a>
+
 ## How it works
 
 1. Open your AI agent's integrated chat interface (such as Cursor's agent mode).
