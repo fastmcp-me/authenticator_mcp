@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/firstorderai-authenticator-mcp-badge.png)](https://mseep.ai/app/firstorderai-authenticator-mcp)
+
 <div align="center">
   <h1>Authenticator App MCP Server</h1>
   <p>
